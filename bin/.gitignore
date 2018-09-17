@@ -2,6 +2,7 @@
 /Kettle$Water.class
 /Kettle.class
 /Microwave.class
+/Minion.class
 /MinionTest.class
 /Popcorn.class
 /Recipes.html
@@ -10,4 +11,5 @@
 /extra/
 /platyousRunner.class
 /platypus.class
-/Minion.class
+/PopcornRunner.class
+/TaeMakerRunner.class
